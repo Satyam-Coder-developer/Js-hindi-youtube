@@ -25,3 +25,30 @@ let someNumber=44
 let stringOfSomeNumber=String(someNumber)
 console.log(typeof stringOfSomeNumber);
 console.log(stringOfSomeNumber)
+
+//*****************Oprations************** //
+let value=3
+let negvalue=-value
+// console.log(negvalue)
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2%2);
+let str1="hello"
+let str2=" Satyam"
+let str3=str1+str2
+console.log(str3)
+
+console.log("1"+2)
+console.log("1"+2+2)
+console.log(1+"2")
+console.log(1+2+"2")
+console.log((3+4)*5%3)
+ 
+console.log(true) //return true
+console.log(+true) //return 1
+console.log(+"") //return 0
+
+
